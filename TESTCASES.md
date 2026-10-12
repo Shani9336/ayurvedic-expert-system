@@ -172,11 +172,6 @@ C2: classification rule fired -> Pitta-Kapha Prakriti (Dvandvaja)
 
 **Manual:** run `python expert_system.py` and enter the choices for any test input (1 = first option, 2 = second, 3 = third for each question).
 
-**Automatic (T1-T10):** run the helper script:
-
-```bash
-python run_tests.py
-```
 
 ## 🎯 8. Coverage
 
